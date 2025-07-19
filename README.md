@@ -1,13 +1,12 @@
 # go-newcm
 
-[![GitHub release](https://img.shields.io/github/release/rickykimani/go-newcm.svg)](https://github.com/rickykimani/go-newcm/releases)
 [![GoDoc](https://godoc.org/github.com/rickykimani/go-newcm?status.svg)](https://godoc.org/github.com/rickykimani/go-newcm)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rickykimani/go-newcm/raw/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rickykimani/go-newcm/blob/main/LICENSE)
 
 `go-newcm` provides the [New Computer Modern](https://ctan.org/pkg/newcomputermodern) fonts as importable Go packages.
 
-The fonts are released under the [GUST font](https://github.com/rickykimani/go-newcm/raw/main/GUST-FONT-LICENSE.txt) license.
-The Go packages under the [MIT](https://github.com/rickykimani/go-newcm/raw/main/LICENSE) license.
+The fonts are released under the [GUST font](https://github.com/rickykimani/go-newcm/blob/main/GUST-FONT-LICENSE.txt) license.
+The Go packages under the [MIT](https://github.com/rickykimani/go-newcm/blob/main/LICENSE) license.
 
 ## Example
 
