@@ -1,0 +1,27 @@
+FONT LICENSE NOTICE
+==================
+
+The New Computer Modern font files embedded in this Go package are licensed 
+under the GUST Font License (GFL), which is based on the LaTeX Project Public 
+License (LPPL).
+
+Font Information:
+- Font Family: New Computer Modern
+- Author: Antonis Tsolomitis  
+- License: GUST Font License (GFL)
+- Version: 7.0.4 (2025-07-02)
+- Source: https://ctan.org/pkg/newcomputermodern
+
+License:
+The complete GUST Font License text is included in this package as 
+GUST-FONT-LICENSE.txt
+
+For the latest version of the license, see:
+- http://www.gust.org.pl/fonts/licenses/GUST-FONT-LICENSE.txt
+- http://tug.org/fonts/licenses/GUST-FONT-LICENSE.txt
+
+The fonts may be distributed and/or modified under the conditions of the 
+LaTeX Project Public License, either version 1.3c or any later version.
+See: http://www.latex-project.org/lppl.txt
+
+This notice must be preserved in all copies or substantial portions of the fonts.
